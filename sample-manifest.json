@@ -1,12 +1,12 @@
 {
-  "export_job_id": "80f33af7-482a-4ef3-b596-555cc3659db6",
+  "export_job_id": "a0e78d27-6703-4eba-8340-8e5618d02fb3",
   "id_short": 503110,
-  "published_at": "2026-04-21T19:29:41Z",
+  "published_at": "2026-04-28T19:43:05Z",
   "repo_name": "all-restaurants-in-fremont-california-us-sample-503110",
   "sample_asset_name": "beamstation_503110_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/503110/beamstation_503110_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 48,
-  "sample_sha256": "e63636d38e415dfc2db1ea6fb850ea9772c35290773d8b44a9c52c8ed4826d46",
-  "sample_size_bytes": 181938,
-  "total_records": 483
+  "sample_records": 47,
+  "sample_sha256": "022bc26229593dd69fd18af00e2bb2666f6edf48e4ec75dc612d840b1ee4e265",
+  "sample_size_bytes": 178120,
+  "total_records": 470
 }
